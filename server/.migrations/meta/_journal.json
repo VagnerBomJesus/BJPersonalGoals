@@ -15,6 +15,13 @@
       "when": 1726064602321,
       "tag": "0001_fancy_vampiro",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726066110930,
+      "tag": "0002_rich_fabian_cortez",
+      "breakpoints": true
     }
   ]
 }
